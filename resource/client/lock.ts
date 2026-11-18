@@ -3,7 +3,7 @@ import {
   callAction,
   Keybind,
   nearestVehicle,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { EVENTS } from "common/keys";
 

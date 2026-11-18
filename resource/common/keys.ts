@@ -1,4 +1,4 @@
-import { bool, int, record } from "@aifivem/lib/shared";
+import { bool, int, record } from "@aicore8/lib/shared";
 
 /** ai-vehiclekeys' contracts. No natives. */
 

@@ -5,8 +5,8 @@ import {
   online,
   plateOf,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
-import { fail, oneArg, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, oneArg, readId } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/keys";
 import { keys } from "./keys";

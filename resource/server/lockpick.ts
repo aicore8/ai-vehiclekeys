@@ -9,8 +9,8 @@ import {
   progressFor,
   SourceLock,
   vehicleOf,
-} from "@aifivem/lib/server";
-import { rollChance } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { rollChance } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { settings } from "./content";
 import { keys } from "./keys";

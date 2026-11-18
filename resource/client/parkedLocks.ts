@@ -1,4 +1,4 @@
-import { AdminWorld, cache, every, onCache } from "@aifivem/lib/client";
+import { AdminWorld, cache, every, onCache } from "@aicore8/lib/client";
 import { EVENTS, readSettings } from "common/keys";
 
 /** GTA's "locked but can be damaged" (parked cars): the ped smashes a window to get in. */

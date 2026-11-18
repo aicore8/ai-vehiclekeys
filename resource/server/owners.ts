@@ -1,6 +1,6 @@
-import { optionalExport } from "@aifivem/lib/server";
-import { normalizePlate } from "@aifivem/lib/shared";
-import { VEHICLES_EVENTS, type VehicleOwner } from "@aifivem/shared";
+import { optionalExport } from "@aicore8/lib/server";
+import { normalizePlate } from "@aicore8/lib/shared";
+import { VEHICLES_EVENTS, type VehicleOwner } from "@aicore8/shared";
 
 const toOwner = (v: unknown): [string, VehicleOwner] | null => {
   if (!Array.isArray(v)) return null;

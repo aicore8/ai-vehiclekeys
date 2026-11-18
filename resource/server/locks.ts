@@ -4,8 +4,8 @@ import {
   onClientEvent,
   plateOf,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
-import { fail, oneArg, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail, oneArg, readId } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/keys";
 import { settings } from "./content";
