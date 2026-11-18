@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/aicore8/ai-vehiclekeys/compare/v0.2.0...v0.2.1) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([daa7cce](https://github.com/aicore8/ai-vehiclekeys/commit/daa7ccebfe124769d36c54c9da36df8ddbfb8e3b))
+
 ## [0.2.0](https://github.com/aicore8/ai-vehiclekeys/compare/v0.1.5...v0.2.0) (2026-11-02)
 
 
